@@ -1,0 +1,10 @@
+this is external file.
+and this is second row.
+
+data
+no      name
+1       Vicky
+2       Ahmad
+3       Ucup
+4       Mario
+5       Sandra
